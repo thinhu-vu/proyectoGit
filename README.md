@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-=======
->>>>>>> 1867cc2 (docs: añadir versión inicial)
-- Añadida feature: develop
+AppVersion-0
+
 - Añadida feature: feature/mi-feature
-- Añadida feature: develop
+
+-
